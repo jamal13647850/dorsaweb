@@ -1,9 +1,6 @@
 {
     "name": "dorsaweb/zarinpal",
-    "description": "a special class for zarinpal",
-    "require": {
-        "php": "5.6"
-    },
+    "description": "a special class for zarinpal", ,
     "authors": [
         {
             "name": "Sayyed Jamal Ghasemi",
