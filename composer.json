@@ -10,7 +10,6 @@
             "email": "jamal13647850@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
         "psr-0": {
             "dorsaweb": "src/"
