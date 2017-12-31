@@ -1,6 +1,6 @@
 {
     "name": "dorsaweb/zarinpal",
-    "description": "a special class for zarinpal", ,
+    "description": "a special class for zarinpal",
     "authors": [
         {
             "name": "Sayyed Jamal Ghasemi",
@@ -12,5 +12,4 @@
             "dorsaweb": "src/"
         }
     }
-
 }
